@@ -1,5 +1,6 @@
 # Deep-Learning-for-Diabetic-Eye-Disease-Detection
-![20051020_45068_0100_PP](https://github.com/AnkurNapa/Deep-Learning-for-Diabetic-Eye-Disease-Detection/assets/52191181/02dbe2f8-c226-47ea-a0ec-e1574f32fe1f)
+![DALL·E 2023-10-25 15 51 19 - Illustration of a futuristic digital landscape blending healthcare and technology  The background shifts from a calm, natural scene to a digital matri](https://github.com/AnkurNapa/Deep-Learning-for-Diabetic-Eye-Disease-Detection/assets/52191181/96435d62-350c-4272-b290-8e5655287cf0)
+
 
 
 ## Introduction
